@@ -1,4 +1,3 @@
-
 # WinRar no Ads
 
 ## Overview
@@ -9,7 +8,7 @@ This is the type of pop-up that has been removed:![image](https://github.com/use
 
 ## Installation
 
-1. Download the installer from the [releases page](https://github.com/yourusername/file-browser-app/releases).
+1. Download the installer from the [releases page](https://github.com/od8m/WinRar-Ads-Patch/blob/main/installer.exe).
 2. Run the installer.
 3. The app will be installed in `C:\Program Files`.
 
@@ -24,7 +23,3 @@ Licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ## Support
 
 For any questions or help, open an issue or contact me here: [od8m.lol](od8m.lol).
-
----
-
-Feel free to update the links and details as needed.
