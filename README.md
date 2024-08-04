@@ -2,9 +2,11 @@
 
 ## Overview
 
-WinRar is a File Browser App that I cracked to remove the purchase pop-up every time you opened anything. This was also a learning experience in reverse engineering.
+WinRar is a file browser app that I cracked to remove the purchase pop-up that appears every time you open anything. This was also a learning experience in reverse engineering. 
 
-This is the type of pop-up that has been removed:![image](https://github.com/user-attachments/assets/b395a756-0dae-41f0-8163-9b6e5c183a47)
+Here's what the removed pop-up looked like: ![image](https://github.com/user-attachments/assets/b395a756-0dae-41f0-8163-9b6e5c183a47)
+
+For a demonstration of what the app does, check out this [YouTube video](https://www.youtube.com/watch?v=w88FTsus8us).
 
 ## Installation
 
