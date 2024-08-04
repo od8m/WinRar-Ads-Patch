@@ -24,4 +24,4 @@ Licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Support
 
-For any questions or help, open an issue or contact me here: [od8m.lol](od8m.lol).
+For any questions or help, open an issue or contact me here: [od8m.lol](https://od8m.lol)
