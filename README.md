@@ -6,7 +6,7 @@ WinRar is a file browser app that I cracked to remove the purchase pop-up that a
 
 Here's what the removed pop-up looked like: ![image](https://github.com/user-attachments/assets/b395a756-0dae-41f0-8163-9b6e5c183a47)
 
-For a demonstration of what the app does, check out this [YouTube video](https://www.youtube.com/watch?v=w88FTsus8us).
+For a demonstration, check out this [YouTube video](https://www.youtube.com/watch?v=w88FTsus8us).
 
 ## Installation
 
